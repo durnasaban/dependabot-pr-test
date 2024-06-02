@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yFLmIrlgzW80uKJpz499lrAUxzE9rN8LN30ywcA1IQOxwKwuSPVdKfDboa9lYtrU9DDw1J56rb3a+ApAeMJvqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\merve\\source\\repos\\dependabot-pr-test\\dependabot-pr-main\\dependabot-pr-main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\merve\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",
+    "C:\\Users\\merve\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\merve\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
