@@ -9,3 +9,8 @@ updates:
     directory: "./dependabot-pr-test" # Location of package manifests
     schedule:
       interval: "weekly"
+      
+  - package-ecosystem: "nuget" # See documentation for possible values
+    directory: "./dependabot-pr-main" # Location of package manifests
+    schedule:
+      interval: "weekly"
